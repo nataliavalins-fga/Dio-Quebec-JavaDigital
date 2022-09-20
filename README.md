@@ -1,1 +1,1 @@
-## Santander Code Girls
+## Quebec Java Digital
